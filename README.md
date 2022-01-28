@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Sree Teja
 I'm a Full Stack Software Developer at Axer Inc. Toronto. I work on Microservices. My technical knowledge include AWS, Terraform, Docker, Kubernetes, NodeJS, ReactJS, GatsbyJS, MongoDB, ExpressJS. I'm Proficient in Javascript, Python3 and Java.
 
-Skills: AWS / Terraform / Docker / kubernetes / React / Javascript / Python / Java / Bash Scripting / Gatsby / Express / MongoDB
+Skills: AWS | Terraform | Docker | Kubernetes | React | Javascript | Python | Java | Bash Scripting | Gatsby | Express | MongoDB
 
 - 🔭 I’m currently working on BrokerPocket projects 
 - 🌱 I’m currently learning Kubernetes 
